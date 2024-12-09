@@ -1,4 +1,5 @@
 # Getting-Started-With-Git-and-Github-IBM-Coursera
+Rakshyanda Behura
 
 This repository contains the work and assignments for the "Getting Started with Git and GitHub" course offered by IBM on Coursera.
 
